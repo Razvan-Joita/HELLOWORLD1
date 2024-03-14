@@ -10,6 +10,9 @@ public class Main {
         String string = "Ana are mere";
         System.out.println(string);
 
+        String string1 = "Ana1 are1 mere1";
+        System.out.println(string);
+
 
     }
 }
